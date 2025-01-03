@@ -1,0 +1,48 @@
+{
+    "company_info": {
+      "name": "Pequi",
+      "mission": "Transformamos ideias empreendedoras em soluções digitais estratégicas para setores-chave como cibersegurança, finanças, agronegócio e educação. Usando metodologias inovadoras, simplificamos processos complexos para que nossos parceiros possam focar no núcleo de seus negócios. Somos catalisadores de inovação, conectando visão empreendedora a soluções tecnológicas robustas e escaláveis, criando pontes entre ideias promissoras e sua realização no mercado digital.",
+      "vision": "Aspiramos ser um polo de inovação tecnológica que projeta o talento brasileiro globalmente. Nosso objetivo é transformar Goiás em um hub de desenvolvimento, construindo uma equipe capaz de criar produtos digitais que vão além de atender mercados — capazes de redesenhar possibilidades. Queremos ser mais que uma empresa de tecnologia: um movimento que inspira e conecta empreendedores, provando que a inovação de ponta pode surgir do coração do Brasil.",
+      "values": [
+        "Integridade",
+        "Crescimento sustentável",
+        "Desenvolvimento humano",
+        "Curiosidade como combustível",
+        "Confiança mútua como fundamento",
+        "Inclusão como princípio absoluto",
+        "Disciplina técnica",
+        "Entusiasmo pelo conhecimento",
+        "Coragem de questionar o convencional",
+        "Impacto social e transformação de realidades"
+      ]
+    },
+    "team_equipments": [
+      "1x monitor de alta performance",
+      "1x MacBook",
+      "1x teclado e mouse ergonômico",
+      "1x EarPods"
+    ],
+    "software_tools": [
+      "Pacote Office",
+      "Teams",
+      "Alura",
+      "PHPStorm",
+      "WebStorm",
+      "Figma",
+      "1Password"
+    ],
+    "social_media": {
+      "linkedin": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A100696815&keywords=pequi&origin=RICH_QUERY_SUGGESTION&position=0&searchId=196a4718-e373-459d-8bfa-4502f32fad62&sid=wIT&spellCorrectionEnabled=false",
+      "website": "https://pequi.tech"
+    },
+    "employees": [
+      "Renoir dos Reis",
+      "Andrei Aguiar",
+      "Diogo Reis",
+      "Thiago Reis",
+      "Fernanda Mendes",
+      "Marcos Fernandes",
+      "Nathaly Arruda"
+    ]
+  }
+  
